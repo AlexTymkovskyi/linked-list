@@ -23,7 +23,8 @@ public class Main {
 		int four=17;
 		list.add(four);
 		System.out.println(list.get(2));
-		System.out.println(list.delete(2));
+		//System.out.println(list.delete(2));
+		//System.out.println(list.size());
 
 
     }
